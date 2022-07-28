@@ -1,0 +1,16 @@
+rude = kasar
+polite = sopan
+offensive = menyinggung
+almost = hampir
+contain = berisi
+decide = memutuskan
+exactly = tepat
+at ease = santai
+stranger = orang asing
+emphasis = penekanan
+emphasize = menekan
+silly = konyol
+curse = mengutuk
+dive = menyelam
+occasion = kesempatan
+appropriate = tepat
