@@ -13,4 +13,4 @@ silly = konyol
 curse = mengutuk
 dive = menyelam
 occasion = kesempatan
-appropriate = tepat
+appropriate = sesuai
